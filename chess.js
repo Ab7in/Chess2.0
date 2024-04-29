@@ -9,4 +9,4 @@ message.style.padding = '10px';
 message.style.border = '1px solid #ccc';
 
 // Append the message to the body of the webpage
-document.body.appendChild(message);
+document.body.appendChild(message)
